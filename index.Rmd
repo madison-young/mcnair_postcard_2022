@@ -1,6 +1,6 @@
 ---
 title: "Madison Young"
-image: "tobi.jpg"
+image: "riffraff.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
