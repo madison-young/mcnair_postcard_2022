@@ -14,6 +14,5 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a third-year undergraduate research assistant at the University of Oregon fulfilling concurrent degrees in Psychology and Spanish. Currently, I am in the computational social neuroscience lab on campus investigating brain representations of strong social bonds, but my interests are not limited to neuroscience for I am extremely interested in educational intervention programs curated to improve individual and potentially societal mental health. On my free time you can catch me kickin it' with my cat riffraff, going for hikes, drawing, watching some TV, or jammin to some music.
+
