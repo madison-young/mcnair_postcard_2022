@@ -1,6 +1,6 @@
 ---
 title: "Madison Young"
-image: "riffraff.jpg"
+image: "web_bio.JPG"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
